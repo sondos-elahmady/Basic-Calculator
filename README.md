@@ -15,3 +15,7 @@ A simple C++ calculator that performs basic arithmetic operations.
 ```cpp
 g++ calculator.cpp -o calculator
 ./calculator
+
+---
+🔗 Linkedin: www.linkedin.com/in/sondos-el-ahmady
+📂 More Projects: https://github.com/sondos-elahmady

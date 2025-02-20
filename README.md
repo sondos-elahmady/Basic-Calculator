@@ -12,7 +12,6 @@ A simple C++ calculator that performs basic arithmetic operations.
 3. View the result.
 
 ## Run the Code
-```cpp
 g++ calculator.cpp -o calculator
 ./calculator
 
